@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-29T15:07:11 IST" name="All_Android_Automation" finished-at="2025-01-29T15:07:35 IST" duration-ms="23514">
+    <groups>
+    </groups>
+    <test started-at="2025-01-29T15:07:11 IST" name="my tests" finished-at="2025-01-29T15:07:35 IST" duration-ms="23514">
+      <class name="day1.TestngTest">
+        <test-method signature="test()[pri:0, instance:day1.TestngTest@77847718]" started-at="2025-01-29T15:07:11 IST" name="test" finished-at="2025-01-29T15:07:11 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- day1.TestngTest -->
+      <class name="TestNg.FirstTest">
+        <test-method signature="openApp()[pri:1, instance:TestNg.FirstTest@42a48628]" started-at="2025-01-29T15:07:11 IST" name="openApp" finished-at="2025-01-29T15:07:15 IST" duration-ms="3440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="searchProduct()[pri:2, instance:TestNg.FirstTest@42a48628]" started-at="2025-01-29T15:07:15 IST" name="searchProduct" finished-at="2025-01-29T15:07:18 IST" duration-ms="3050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method signature="openPDP()[pri:3, instance:TestNg.FirstTest@42a48628]" started-at="2025-01-29T15:07:18 IST" name="openPDP" finished-at="2025-01-29T15:07:20 IST" duration-ms="2232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openPDP -->
+        <test-method signature="addToBag()[pri:4, instance:TestNg.FirstTest@42a48628]" started-at="2025-01-29T15:07:20 IST" name="addToBag" finished-at="2025-01-29T15:07:24 IST" duration-ms="4191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToBag -->
+        <test-method signature="verifyCart()[pri:5, instance:TestNg.FirstTest@42a48628]" started-at="2025-01-29T15:07:24 IST" name="verifyCart" finished-at="2025-01-29T15:07:25 IST" duration-ms="405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCart -->
+        <test-method signature="quitApp()[pri:6, instance:TestNg.FirstTest@42a48628]" started-at="2025-01-29T15:07:25 IST" name="quitApp" finished-at="2025-01-29T15:07:35 IST" duration-ms="10166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitApp -->
+      </class> <!-- TestNg.FirstTest -->
+    </test> <!-- my tests -->
+  </suite> <!-- All_Android_Automation -->
+</testng-results>
